@@ -30,3 +30,4 @@ __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 sh questionnaire.sh
+bash questionnaire.sh
