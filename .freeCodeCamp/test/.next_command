@@ -156,3 +156,4 @@ echo -man
 man echo
 echo -e \n~~ Questionnaire ~~\n
 ./questionnaire.sh
+./questionnaire.sh
