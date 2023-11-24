@@ -163,3 +163,6 @@ __vsc_prompt_cmd_original
 ./questionnaire.sh
 ./questionnaire.sh
 ./questionnaire.sh
+__vsc_prompt_cmd_original
+pwd
+touch countdown.sh
