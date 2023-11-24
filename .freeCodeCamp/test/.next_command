@@ -172,3 +172,6 @@ which bash
 nano countdown.sh
 nano countdown.sh
 nano countdown.sh
+echo $*
+echo $*
+nano countdown.sh
