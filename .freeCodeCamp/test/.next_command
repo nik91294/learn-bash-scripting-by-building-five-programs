@@ -175,3 +175,4 @@ nano countdown.sh
 echo $*
 echo $*
 nano countdown.sh
+./countdown.sh
