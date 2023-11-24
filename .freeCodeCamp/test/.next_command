@@ -181,3 +181,5 @@ nano countdown.sh
 ./countdown.sh arg1 arg2 arg3
 nano countdown.sh
 ./countdown.sh arg1 arg2 arg3
+__vsc_prompt_cmd_original
+help
