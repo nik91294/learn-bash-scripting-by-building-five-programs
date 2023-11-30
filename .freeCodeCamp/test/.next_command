@@ -390,3 +390,7 @@ help
 ls --color=auto /
 ls --color=auto bin
 ls --color=auto /bin
+__vsc_prompt_cmd_original
+sleep -man
+sleep --help
+man sleep
