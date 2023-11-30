@@ -394,3 +394,4 @@ __vsc_prompt_cmd_original
 sleep -man
 sleep --help
 man sleep
+sleep 3
