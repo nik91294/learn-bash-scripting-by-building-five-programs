@@ -431,3 +431,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./countdown.sh 1
 help while
 ./countdown.sh 5
+touch bingo.sh
