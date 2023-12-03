@@ -441,3 +441,6 @@ chmod --help
 chmod +x ./bingo.sh
 ./bingo.sh
 printenv
+echo lang
+echo LANG
+echo $LANG
