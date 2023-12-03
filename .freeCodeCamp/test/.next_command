@@ -429,3 +429,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./countdown.sh 3
 ./countdown.sh 3
 ./countdown.sh 1
+help while
