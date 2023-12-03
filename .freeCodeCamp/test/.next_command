@@ -451,3 +451,4 @@ echo $RANDOM
 ./bingo.sh
 I=0
 echo $I
+(( I++ ))
