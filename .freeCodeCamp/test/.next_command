@@ -465,3 +465,5 @@ echo I
 echo $I
 j\J=$(( I-6 ))
 J=$(( I-6 ))
+echo J
+echo $J
