@@ -579,3 +579,6 @@ help -a
 help array
 man -k array
 help declare
+help declare
+./fortune.sh
+./fortune.sh
