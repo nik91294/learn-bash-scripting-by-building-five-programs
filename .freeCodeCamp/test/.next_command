@@ -691,3 +691,4 @@ help until
 ./fortune.sh wa
 help [[
 [[ hello == hello ]]
+[[ hello == world ]]
