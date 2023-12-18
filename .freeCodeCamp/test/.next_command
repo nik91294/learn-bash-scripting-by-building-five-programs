@@ -693,3 +693,9 @@ help [[
 [[ hello == hello ]]
 [[ hello == world ]]
 [[ hello =~ el ]]
+__vsc_prompt_cmd_original
+[[ " hello" =~ "lo wor" ]]
+[[ "hello" =~ "lo wor" ]]
+[[ -n "hello"=~"lo wor" ]]
+[[ -n "hello world"=~"lo wor" ]]
+[[ "hello world" =~ "lo wor" ]]
