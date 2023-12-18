@@ -575,3 +575,7 @@ echo $*{ARR}
 echo $*{ARR}
 echo ${ARR[*]}
 declare -p ARR
+help -a
+help array
+man -k array
+help declare
