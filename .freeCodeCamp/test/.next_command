@@ -687,3 +687,4 @@ help function
 __vsc_prompt_cmd_original
 ./fortune.sh
 help
+help until
