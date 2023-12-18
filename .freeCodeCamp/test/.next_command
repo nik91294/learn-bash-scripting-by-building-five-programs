@@ -562,3 +562,5 @@ help echo
 ./bingo.sh
 touch fortune.sh
 chmod +x fortune.sh
+./fo
+./fortune.sh
