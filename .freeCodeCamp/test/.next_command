@@ -689,3 +689,4 @@ __vsc_prompt_cmd_original
 help
 help until
 ./fortune.sh wa
+help [[
