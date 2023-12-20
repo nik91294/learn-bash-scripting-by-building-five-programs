@@ -803,3 +803,4 @@ chmod +x five.sh
 ./five
 ./five.sh
 __vsc_prompt_cmd_original
+clear
