@@ -773,3 +773,4 @@ echo $VAR
 [[ $VAR =~ \?$ ]]
 [[ test? =~ \?$ ]]
 ./fortune.sh fuck
+./fortune.sh fuck
