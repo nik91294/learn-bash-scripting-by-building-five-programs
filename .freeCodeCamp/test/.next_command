@@ -763,3 +763,7 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 [[ "hello world" =~ ^h ]]
 [[ "hello world" =~ ^h.+d$ ]]
+VAR = "hello world"
+$VAR = "hello world"
+$VAR="hello world"
+VAR="hello world"
