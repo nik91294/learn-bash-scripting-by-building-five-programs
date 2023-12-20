@@ -774,3 +774,25 @@ echo $VAR
 [[ test? =~ \?$ ]]
 ./fortune.sh fuck
 ./fortune.sh fuck
+__vsc_prompt_cmd_original
+./fortune.sh fuck
+./fortune
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
